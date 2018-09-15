@@ -1,4 +1,4 @@
-# Mini::Nlp
+# Mininlp
 
 this gem contains implementions of some NLP util functions, such as word error rate and perplexity.
 
@@ -7,7 +7,7 @@ this gem contains implementions of some NLP util functions, such as word error r
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'mini-nlp'
+gem 'mininlp'
 ```
 
 And then execute:
@@ -16,7 +16,7 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install mini-nlp
+    $ gem install mininlp
 
 ## Usage
 

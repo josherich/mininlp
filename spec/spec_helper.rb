@@ -1,5 +1,5 @@
 require "bundler/setup"
-require "mini/nlp"
+require "mininlp"
 
 RSpec.configure do |config|
   # Enable flags like --only-failures and --next-failure
