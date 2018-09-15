@@ -20,8 +20,11 @@ Or install it yourself as:
 
 ## Usage
 
-calculate(firstSentence:[string], secondSentence:[string])
-getDistance(firstSentence:[string], secondSentence:[string])
+`calculate(firstSentence:[string], secondSentence:[string])`
+
+`getDistance(firstSentence:[string], secondSentence:[string])`
+
+> note that the input sentence should be array of tokens
 
 ## Development
 
